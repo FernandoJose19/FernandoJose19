@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Olá! Eu sou Fernando José
 
 ### 💻 Estudante de Técnico em Informática | Desenvolvedor em formação
@@ -12,16 +14,20 @@
 
 🎓 Estudante de **Técnico em Informática** desde 2025.
 
-💡 Tenho interesse em desenvolvimento de software e estou constantemente
-aprendendo novas tecnologias.
+💡 Tenho interesse em desenvolvimento de software, aplicações web,
+aplicativos e bancos de dados.
 
-🐦 Atualmente focado em **Dart, Flutter e C#**.
+🐦 Atualmente estudando **Dart e Flutter**.
 
-🔥 Gosto de transformar projetos acadêmicos em aplicações cada vez mais completas.
+🔷 Desenvolvendo projetos com **C# e ASP.NET**.
+
+🗄️ Estudando e trabalhando com **bancos de dados e SQL**.
+
+🔥 Sempre buscando transformar o que aprendo em projetos práticos.
 
 ---
 
-## 🔥 Atualmente trabalhando em
+## 🔥 Atualmente estou trabalhando em
 
 <table>
 <tr>
@@ -34,7 +40,7 @@ Sistema de gerenciamento de agenda desenvolvido com:
 - 🐦 Dart
 - 💙 Flutter
 - 🔥 Firebase
-- 🗄️ SQLite
+- 🗄️ Banco de dados
 
 </td>
 
@@ -45,9 +51,10 @@ Sistema de gerenciamento de agenda desenvolvido com:
 Desenvolvimento de projetos utilizando:
 
 - 🔷 C#
-- 🌐 HTML
+- 🌐 ASP.NET
 - 🗄️ Banco de dados
-- 🧩 Orientação a objetos
+- 🧩 Programação orientada a objetos
+- 🌐 HTML
 
 </td>
 </tr>
@@ -55,15 +62,18 @@ Desenvolvimento de projetos utilizando:
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </div>
 
@@ -97,8 +107,11 @@ Desenvolvimento de projetos utilizando:
 - [x] Aprender C#
 - [x] Aprender Git e GitHub
 - [x] Começar a desenvolver com Flutter
+- [x] Trabalhar com bancos de dados
 - [ ] Aprofundar meus conhecimentos em Dart
+- [ ] Aprofundar meus conhecimentos em ASP.NET
 - [ ] Aprender mais sobre APIs
+- [ ] Aprofundar meus conhecimentos em SQL
 - [ ] Desenvolver aplicações cada vez mais completas
 - [ ] Publicar mais projetos
 
@@ -119,3 +132,5 @@ Desenvolvimento de projetos utilizando:
 ### 🚀 Sempre aprendendo. Sempre criando.
 
 ⭐ Obrigado por visitar meu perfil!
+
+</div>
