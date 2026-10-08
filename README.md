@@ -28,7 +28,7 @@ aplicativos e bancos de dados.
 ---
 
 ## 🔥 Atualmente estou trabalhando em
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -45,7 +45,7 @@ Sistema de gerenciamento de agenda desenvolvido com:
 </td>
 
 <td width="50%">
-
+</div>
 ### 🎓 Projetos acadêmicos
 
 Desenvolvimento de projetos utilizando:
