@@ -14,7 +14,7 @@
 
 🎓 Estudante de **Técnico em Informática** desde 2025.
 
-💡 Tenho interesse em desenvolvimento de software, aplicações web,
+💡 Tenho interesse em desenvolvimento de software, aplicações web,  
 aplicativos e bancos de dados.
 
 🐦 Atualmente estudando **Dart e Flutter**.
@@ -28,35 +28,37 @@ aplicativos e bancos de dados.
 ---
 
 ## 🔥 Atualmente estou trabalhando em
-<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📅 Agenda Notas
 
 Sistema de gerenciamento de agenda desenvolvido com:
 
-- 🐦 Dart
-- 💙 Flutter
-- 🔥 Firebase
-- 🗄️ Banco de dados
+- 🐦 **Dart**
+- 💙 **Flutter**
+- 🔥 **Firebase**
+- 🗄️ **Banco de dados**
 
 </td>
 
-<td width="50%">
-</div>
+<td width="50%" valign="top">
+
 ### 🎓 Projetos acadêmicos
 
 Desenvolvimento de projetos utilizando:
 
-- 🔷 C#
-- 🌐 ASP.NET
-- 🗄️ Banco de dados
-- 🧩 Programação orientada a objetos
-- 🌐 HTML
+- 🔷 **C#**
+- 🌐 **ASP.NET**
+- 🗄️ **Banco de dados**
+- 🧩 **Programação orientada a objetos**
+- 🌐 **HTML**
 
 </td>
+
 </tr>
 </table>
 
@@ -107,7 +109,7 @@ Desenvolvimento de projetos utilizando:
 ## 📌 Projetos
 
 | Projeto | Tecnologia | Descrição |
-|---|---|---|
+|:---:|:---:|---|
 | 📅 **Agenda Notas** | Flutter / Dart | Sistema de gerenciamento de agenda |
 | 🎓 **Gerenciador Acadêmico** | C# | Sistema de gerenciamento acadêmico |
 | 🎬 **Gerenciador de Filmes** | C# | Aplicação para gerenciamento de filmes |
